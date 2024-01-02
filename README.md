@@ -2,7 +2,9 @@
 
 This application assists HR professionals in screening resumes efficiently using NLP, OpenAI and vector databases.
 
-[Video Introduction](https://drive.google.com/file/d/VIDEO_ID_HERE/view?usp=sharing)
+[![Video Introduction](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
+Click on the image above to watch the video introduction.
 
 ## Table of Contents
 
